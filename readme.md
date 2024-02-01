@@ -1,7 +1,7 @@
 2 tier Application throgh terraform
 
 Architecture:
-![Alt text](<archeitecture.png>)
+![Alt text](<architecture.png>)
 
 After cloning the repo:
 
